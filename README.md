@@ -9,9 +9,15 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Vincenzo675/Vincenzo675/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Craftastic Land">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Craftastic%20Land&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -136,14 +142,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Craftastic Land">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Craftastic%20Land&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
