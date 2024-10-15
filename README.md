@@ -2,6 +2,19 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Craftastic Land">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Craftastic%20Land&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
 <div align="left">
   <a href="https://youtube.com/@craftasticland?si=7Otj5ZfqrPNR9XrV" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -20,6 +33,16 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -105,29 +128,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Craftastic Land">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Craftastic%20Land&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
