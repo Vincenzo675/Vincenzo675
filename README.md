@@ -1,23 +1,28 @@
 <h2 align="left">Hello👋! My name is  Vince Th, and I'm a Developer and an Origami Artist, from Imphal, Manipur,India.</h2>
 
-###
+### my GitHub stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vincenzo675&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vincenzo675&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### snake 🐍 
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+</picture>
+
 ###
 
-<img src="https://raw.githubusercontent.com/Vincenzo675/Vincenzo675/output/snake.svg" alt="Snake animation" />
+<p align = "middle">
+<img width = '60.5%' src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=true&theme=novatorem&show_offline=false&background_color=1c9b1c&interchange=true&bar_color=d03524&bar_color_cover=false"/>
+</a>
+</p>
+<br/>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Craftastic Land">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Craftastic%20Land&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
