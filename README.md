@@ -15,9 +15,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tiirvdhwhhhxfd4wuy3zsnadka)
-
+### I love listening to music 🎶 
+&nbsp;<div align="center">
+[![](https://spotify-recently-played-readme.vercel.app/api?user=31tiirvdhwhhhxfd4wuy3zsnadka&count=3&width=375&background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31tiirvdhwhhhxfd4wuy3zsnadka)
+</div> 
 ###
 
 <div align="left">
