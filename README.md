@@ -2,11 +2,19 @@
 
 ### my GitHub stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vincenzo675&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vincenzo675&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+    <img
+        width="52%"
+        src="https://github-readme-stats.vercel.app/api?username=Guru322&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Guru322&theme=tokyonight"
+    />
+</p>
 
+<h3>
+  
 ### snake 🐍 
 
   <picture>
